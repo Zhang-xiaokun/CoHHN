@@ -40,7 +40,7 @@ def main():
         n_node = 23194
         n_price = 11
         n_category = 301
-    elif opt.dataset == 'digineticaBuy100':
+    elif opt.dataset == 'digineticaBuy':
         n_node = 24889
         n_price = 100
         n_category = 721
