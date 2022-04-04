@@ -1,10 +1,10 @@
 This is our implementation for the paper:
 
-Price DOES Matter! Modeling Price and Interest Preferences in Session-based Recommendation 
+_Price DOES Matter! Modeling Price and Interest Preferences in Session-based Recommendation_ 
 
 Xiaokun Zhang, Bo Xu, Liang Yang, Chenliang Li, Fenglong Ma, Haifeng Liu, Hongfei Lin
 
-at SIGIR 2022
+_at SIGIR, 2022_
 
 Environments: Python3, Pytorch 1.9.1, Numpy 1.19.2
 
