@@ -23,4 +23,4 @@ Please cite our paper if you use our codes. Thanks!
 
 In case that you have any difficulty about the implementation or you are interested in our work,  please feel free to communicate with us by:
 
-Author: Xiaokun Zhang (kun@mail.dlut.edu.cn / 1210940418@qq.com)
+Author: Xiaokun Zhang (kun@mail.dlut.edu.cn / ZhangXiaokun1993@foxmail.com)
