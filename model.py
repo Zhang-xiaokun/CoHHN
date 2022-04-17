@@ -34,9 +34,7 @@ class HyperConv(Module):
         self.n_price = n_price
         self.n_category = n_category
 
-        self.mat_pc = nn.Parameter(torch.Tensor(self.n_price, self.emb_size))
         self.mat_cp = nn.Parameter(torch.Tensor(self.n_category, 1))
-
         self.mat_pc = nn.Parameter(torch.Tensor(self.n_price, 1))
         self.mat_pv = nn.Parameter(torch.Tensor(self.n_price, 1))
         self.mat_cv = nn.Parameter(torch.Tensor(self.n_category, 1))
