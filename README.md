@@ -17,10 +17,14 @@ Download path of datasets:
   Amazon: http://jmcauley.ucsd.edu/data/amazon/
   
 
-We also uploaded all three preprocessed datasets under the folder 'datasets'. You can directly use them to reproduce our results.
+We also uploaded all three preprocessed datasets under the folder 'datasets'. You can directly use them to reproduce our results. You can also process your own datasets via the preprocess code we provide in the file 'datasets'.
 
 Please cite our paper if you use our codes. Thanks!
 
 In case that you have any difficulty about the implementation or you are interested in our work,  please feel free to communicate with us by:
 
 Author: Xiaokun Zhang (kun@mail.dlut.edu.cn / ZhangXiaokun1993@foxmail.com)
+
+Also, welcome to visit my academic homepage:
+
+https://zhang-xiaokun.github.io/
